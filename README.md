@@ -9,4 +9,5 @@ kshitijtanwar/kshitijtanwar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![programmer](https://user-images.githubusercontent.com/115441279/199840256-cd8b864f-334d-42c8-9ba7-f88ce670c7ed.gif)
+![programmer](https://user-images.githubusercontent.com/115441279/199840570-3edc06df-3578-4bc6-9d10-209fa72dfd42.gif)
+
