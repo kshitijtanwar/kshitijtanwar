@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshitijtanwar
 - 👀 I’m interested in learning app dev
-- 🌱 I’m currently learning basic android studio
+- 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me gmail- kshitij.tanwar2002@gmail.com
 
